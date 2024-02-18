@@ -1,0 +1,6 @@
+forkbomb
+forkbomb.exe
+*.o
+*.obj
+.depend
+.gdbinit
